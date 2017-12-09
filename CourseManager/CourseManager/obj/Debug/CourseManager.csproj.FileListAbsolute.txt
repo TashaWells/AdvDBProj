@@ -1,0 +1,14 @@
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csprojResolveAssemblyReference.cache
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.Cache
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\tmwel\source\repos\CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
